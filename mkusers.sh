@@ -8,11 +8,11 @@ useradd -c "Martin Mazanek" -p uvodniheslo mmazanek
 useradd -c "Jitka Kuliskova" -p uvodniheslo jkuliskova
 
 # Sets the password uvodniheslo for all the users
-echo "uvodniheslo" | usermod -p - jnovak
-echo "uvodniheslo" | usermod -p - jhrabal
-echo "uvodniheslo" | usermod -p - tsimakova
-echo "uvodniheslo" | usermod -p - mmazanek
-echo "uvodniheslo" | usermod -p - jkuliskova
+echo "uvodniheslo" | passwd jnovak
+echo "uvodniheslo" | passwd jhrabal
+echo "uvodniheslo" | passwd tsimakova
+echo "uvodniheslo" | passwd mmazanek
+echo "uvodniheslo" | passwd jkuliskova
 
 # Password configuration
 chage -d 0 -m 5 -M 180 -W 7 jnovak
