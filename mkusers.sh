@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Creates all users with their full name and password included
-useradd -c "Jan Novak" -p uvodniheslo jnovak
-useradd -c "Jan Hrabal" -p uvodniheslo jhrabal
-useradd -c "Tereza Simakova" -p uvodniheslo tsimakova
-useradd -c "Martin Mazanek" -p uvodniheslo mmazanek
-useradd -c "Jitka Kuliskova" -p uvodniheslo jkuliskova
+useradd -m -c "Jan Novak" -p uvodniheslo jnovak
+useradd -m -c "Jan Hrabal" -p uvodniheslo jhrabal
+useradd -m -c "Tereza Simakova" -p uvodniheslo tsimakova
+useradd -m -c "Martin Mazanek" -p uvodniheslo mmazanek
+useradd -m -c "Jitka Kuliskova" -p uvodniheslo jkuliskova
 
 # Sets the password uvodniheslo for all the users
 echo "uvodniheslo" | passwd jnovak
