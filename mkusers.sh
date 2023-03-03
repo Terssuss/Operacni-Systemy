@@ -7,6 +7,13 @@ useradd -c "Tereza Simakova" -p uvodniheslo tsimakova
 useradd -c "Martin Mazanek" -p uvodniheslo mmazanek
 useradd -c "Jitka Kuliskova" -p uvodniheslo jkuliskova
 
+# Sets the password uvodniheslo for all the users
+usermod -p uvodniheslo jnovak
+usermod -p uvodniheslo jhrabal
+usermod -p uvodniheslo tsimakova
+usermod -p uvodniheslo mmazanek
+usermod -p uvodniheslo jkuliskova
+
 # Creates all groups and adds users to them
 groupadd -U jnovak vyucujici
 groupadd -U jhrabal,tsimakova,mmazanek,jkuliskova zaci
