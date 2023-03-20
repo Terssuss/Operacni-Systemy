@@ -18,4 +18,4 @@
 4) Prezentace projektu
 
 klicova slova
-docker, (ubuntu 22.04), reverse proxy, webserver
+- docker, (ubuntu 22.04), reverse proxy, webserver
