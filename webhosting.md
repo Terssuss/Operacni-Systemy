@@ -5,10 +5,10 @@
 3)
 4) SSL/TLS CERTIFIKAT POVINE!!!!!!!!1!1!1!1!!1!1!1!1!1!!1!1!1!1!!1!1!1!1!1!1!1!1!!1!1!1!1!1!1!!1!1!1!1!1!!1! MAM ZAKAZANO PLATIT CERTIFIKAT !!!!!!!1!!ZOGZOGGOYIM FUUJJJ
 5) CILE PROJETKU
-	USPESNA
+	- USPESNA server
 	
-	podrobna dokumentace
-	bonus - automatiazacni skiprt pro zavedeni zakaznika
+	- podrobna dokumentace
+	- bonus - automatiazacni skiprt pro zavedeni zakaznika
 
 ## Co se hodnoti 
 
