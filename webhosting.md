@@ -1,16 +1,16 @@
-## WEBHOSTING 
+# WEBHOSTING 
 
 1)
 2)
 3)
 4) SSL/TLS CERTIFIKAT POVINE!!!!!!!!1!1!1!1!!1!1!1!1!1!!1!1!1!1!!1!1!1!1!1!1!1!1!!1!1!1!1!1!1!!1!1!1!1!1!!1! MAM ZAKAZANO PLATIT CERTIFIKAT !!!!!!!1!!ZOGZOGGOYIM FUUJJJ
 5) CILE PROJETKU
-	1) USPESNA
+	USPESNA
 	
-	3) podrobna dokumentace
-	4) bonus - automatiazacni skiprt pro zavedeni zakaznika
+	podrobna dokumentace
+	bonus - automatiazacni skiprt pro zavedeni zakaznika
 
-# Co se hodnoti 
+## Co se hodnoti 
 
 1) Uspesna realizace
 2) Aktivita a pristup projektu
